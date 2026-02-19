@@ -25,4 +25,3 @@ print(f"E: {e}, Type: {type(e)}")
 # f
 print(f"F: {f}, Type: {type(f)}")
 f = float(f)
-
