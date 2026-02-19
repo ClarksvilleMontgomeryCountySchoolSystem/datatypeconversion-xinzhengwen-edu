@@ -17,4 +17,3 @@ price = float(price)
 #TODO 6 Uncomment 18 & 19.
 total = price + 5
 print(total)
-
