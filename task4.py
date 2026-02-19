@@ -4,6 +4,5 @@
 
 # Can you find a string that converts to False using bool()?
 # Experiment below:
-string = ""
-string = bool(string)
+bool("")
 print(string)
